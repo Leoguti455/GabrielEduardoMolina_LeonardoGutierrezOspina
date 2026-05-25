@@ -1,5 +1,4 @@
 #las funciones
-# mis_funciones.py - Librería de funciones
 
 def ver(d): 
     for k,v in d.items(): print(f"{k}: {v}")
