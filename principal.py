@@ -1,6 +1,6 @@
 # programa principal
 
-from hola import ver, eliminar, agregar, buscar, contar
+from libreria import ver, eliminar, agregar, buscar, contar
 
 # Diccionario inicial
 datos = {"nombre": "Raul", "edad": 13, "correo": "raul@ejemplo.com"}
